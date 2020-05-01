@@ -12,12 +12,12 @@ The project is written in Python under Windows OS. The following installations a
 -	Keep all files together (under same directory).
 -	Open DOS window and change directory (cd) to the directory where files reside.
 -	Use the Dir command to validate that all the files listed below are present. 
-CalculateTaxes.py
-classesmodule.py
-functionsmodule.py
-MarriedTaxesBrackets.csv
-SingleTaxesBrackes.csv
-Readme.doc
+> CalculateTaxes.py
+> classesmodule.py
+> functionsmodule.py
+> MarriedTaxesBrackets.csv
+> SingleTaxesBrackes.csv
+> Readme.doc
 
 # Execution
 -	Open DOS window and change directory (cd) to the directory where the python files reside.
